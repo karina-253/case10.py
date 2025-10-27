@@ -1,0 +1,36 @@
+{
+  "account_id": "ACC123456",
+  "account_holder": "Петров Иван Сергеевич",
+  "balance": 154320.75,
+  "currency": "RUB",
+  "transactions": [
+    {
+      "transaction_id": "TXN001",
+      "date": "2024-01-15",
+      "description": "Зарплата",
+      "amount": 85000.00,
+      "category": "доход"
+    },
+    {
+      "transaction_id": "TXN002",
+      "date": "2024-01-16",
+      "description": "Аренда квартиры",
+      "amount": -35000.00,
+      "category": "жилье"
+    },
+    {
+      "transaction_id": "TXN003",
+      "date": "2024-01-17",
+      "description": "Продукты",
+      "amount": -5250.50,
+      "category": "еда"
+    },
+    {
+      "transaction_id": "TXN004",
+      "date": "2024-01-18",
+      "description": "Интернет",
+      "amount": -899.00,
+      "category": "коммунальные"
+    }
+  ]
+}
